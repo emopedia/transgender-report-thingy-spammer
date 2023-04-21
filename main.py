@@ -15,7 +15,7 @@ class config:
 # Change configuration settings here.
 config.zipFile = "fake-details.zip"
 config.fakeDetailsFile = "FakeNameGenerator.com-100000-UK,US,AUS,CAN.csv"
-config.fakeDetailsLength = 100000
+config.fakeDetailsLength = 1000
 config.multiThreading = True
 config.multiThreads = 500
 class fakePerson:
