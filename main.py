@@ -17,7 +17,7 @@ config.zipFile = "fake-details.zip"
 config.fakeDetailsFile = "FakeNameGenerator.com-100000-UK,US,AUS,CAN.csv"
 config.fakeDetailsLength = 1000
 config.multiThreading = True
-config.multiThreads = 500
+config.multiThreads = 50
 class fakePerson:
     def __init__(self):
         self.details = fakeDetails[random.randint(0,config.fakeDetailsLength-1)]
