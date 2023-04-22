@@ -1,4 +1,5 @@
 # missouri spammer
+# WE GOT IT TAKEN DOWN, FUCK YOU MISSOURI, WE WIN
 Spam those transphobes out of existence! but what?
 Fake Information provided by [Fake Name Generator](https://www.fakenamegenerator.com "Fake Name Generator")
 
